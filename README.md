@@ -39,38 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
 </div>
 
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasJadhav12&show_icons=true&theme=tokyonight" alt="Tejas Jadhav's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasJadhav12&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasJadhav12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-###
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-###
-
-- 🔐 [SecureGate – Visitor Entry Management System](#)
-- 👨‍🏫 [Teacher Leave Management System](#)
-- 👮‍♂️ [Guard Access Web Portal](#)
-- 📊 [Student Info Tracker (Spring Boot + MySQL)](#)
-
-> _Click project names above to view them (add actual links)._
-
-###
 
 <h2 align="left">🌐 Connect with Me</h2>
 
