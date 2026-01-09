@@ -15,8 +15,9 @@
 🧪 API Testing using Postman <br>
 🗄️ Databases: MySQL | PostgreSQL <br>
 🎨 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS <br>
+🐘 Backend (PHP): Core PHP | Laravel <br>
+⚙️ Backend (Java): Spring Boot <br>
 📦 DevOps: Docker <br>
-⚙️ Frameworks: Spring Boot | Laravel <br>
 📚 MCA Student | Passionate about Backend & Full Stack Development
 </p>
 
@@ -26,8 +27,9 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/>
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -42,6 +44,7 @@
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="50"/>
 </p>
 
 ---
@@ -58,7 +61,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav1&theme=tokyonight"/>
 </p>
 
 ---
@@ -66,7 +69,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejas-jadhav&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tejas-jadhav1&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -82,5 +85,5 @@
 ---
 
 <p align="center">
-  🚀 <strong>"Building scalable backend systems and full-stack applications."</strong>
+  🚀 <strong>"Building scalable backend systems with PHP, Laravel, and Java."</strong>
 </p>
