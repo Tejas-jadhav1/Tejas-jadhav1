@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas-jadhav1&show_icons=true&theme=tokyonight" height="180"/>
@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tejas-jadhav1&theme=tokyonight&row=1&column=7"/>
-</p>
+</p> -->
 
 ---
 
