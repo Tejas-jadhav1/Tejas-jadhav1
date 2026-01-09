@@ -61,7 +61,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-jadhav1&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-jadhav1&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejas-jadhav1&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejas-jadhav1&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
